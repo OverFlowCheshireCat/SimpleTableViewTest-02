@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  SimpleTableViewTest 02
-//
-//  Created by dit03 on 2019. 5. 2..
-//  Copyright © 2019년 201730529 김민철. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController, UITableViewDataSource {
